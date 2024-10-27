@@ -11,5 +11,5 @@ Plotly.newPlot(
   ],
   {
     margin: { t: 0 },
-  }
+  },
 );
