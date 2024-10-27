@@ -1,0 +1,25 @@
+{
+  "name": "npm-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "esbuild": "^0.21.5",
+    "nanoid": "^3.3.7",
+    "picocolors": "^1.1.1",
+    "plotly.js-dist-min": "^2.35.2",
+    "postcss": "^8.4.47",
+    "rollup": "^4.24.1",
+    "source-map-js": "^1.2.1"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  },
+  "author": "Hoang",
+  "license": "ISC"
+}
