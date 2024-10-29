@@ -6,11 +6,14 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@tanstack/react-query": "^5.59.16",
     "esbuild": "^0.21.5",
     "nanoid": "^3.3.7",
     "picocolors": "^1.1.1",
     "plotly.js-dist-min": "^2.35.2",
     "postcss": "^8.4.47",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "rollup": "^4.24.1",
     "source-map-js": "^1.2.1"
   },
