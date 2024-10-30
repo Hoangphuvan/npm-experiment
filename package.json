@@ -19,7 +19,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "buil": "vite build",
     "format": "prettier --write .",
     "prepare": "husky install",
     "lint": "eslint",
